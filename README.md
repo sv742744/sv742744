@@ -7,10 +7,10 @@
 ![B.Tech](https://img.shields.io/badge/B.Tech-Computer_Science-673AB7?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Madanapalle, India](https://img.shields.io/badge/Madanapalle,_India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=web&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=web&logoColor=white)](https://sv-portfolio-c7xk2kztj-shashis-projects-bb764d44.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-vardhan-10161a2a5/)
+[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashi.vardhan.eng@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sv742744)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sv742744&color=8A2BE2&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/sv742744?color=673AB7&style=for-the-badge)
