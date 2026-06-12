@@ -206,3 +206,27 @@ Current_Status:
     - Software Engineering Roles
     - Technical Collaborations
     - Hackathons & Competitive Programming
+```
+
+---
+
+## 15. Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashi.vardhan.eng@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-vardhan-10161a2a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sv742744)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=web&logoColor=white)](https://sv-portfolio-c7xk2kztj-shashis-projects-bb764d44.vercel.app/)
+
+</div>
+
+---
+
+## 16. Footer
+
+<div align="center">
+  <i>"Engineering elegant solutions to complex problems through code and continuous learning."</i>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer" width="100%" />
+</div>
